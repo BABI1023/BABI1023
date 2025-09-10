@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 
 
 Hey there, I'm Babitha 👋✨
 
 
-  🚀 Aspiring Google STEP Intern • Frontend Wizard 🧙‍♀ • AI Enthusiast 🤖 • Hackathon Warrior ⚔
+  🚀 Aspiring AI ML Architect• Frontend Wizard 🧙‍♀ • AI Enthusiast 🤖 • Hackathon Warrior ⚔
 
 
 ---
