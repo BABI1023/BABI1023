@@ -17,10 +17,6 @@ Hey, I'm Babitha<br>AIML Engineer in the making — focused on architecting inte
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BABI1023&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=BABI1023&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
