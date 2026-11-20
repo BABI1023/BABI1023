@@ -1,14 +1,13 @@
-
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">BABI</h1>
 
 <p align="center">
-  <b>AI & ML Builder · Agentic Systems Architect · Community Leader</b>
+  <b>AI Systems Engineer · Agentic AI · Autonomous Intelligence</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+i+build+AI+that+ships.;%3E+i+lead+300+developers.;%3E+i+build+autonomous+systems.;%3E+i+don't+wait+for+permission." width="100%" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+i+build+AI+that+ships.;%3E+i+architect+autonomous+systems.;%3E+i+engineer+intelligence.;%3E+i+don't+wait+for+permission." width="100%" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,46 +29,69 @@
 
 ## 🧬 ABOUT
 
-```python
-me = {
-    "identity": "AI/ML Engineer in the making",
+I work at the intersection of Artificial Intelligence, Machine Learning and autonomous systems — engineering the transition from experimental intelligence to systems that operate in the real world.
 
-    "obsessed_with": [
-        "Agentic AI",
-        "LLM Orchestration",
-        "Multi-Agent Systems",
-        "MCP Tool Use",
-        "Voice-First Multilingual AI",
-        "Context Engineering"
-    ],
+I'm fascinated by what happens beneath the abstraction: how models reason, how agents make decisions, where architectures break, and what separates an impressive prototype from a reliable, production-oriented system.
 
-    "building": "Event-driven autonomous systems",
+**The engineering focus:**
 
-    "stack": [
-        "Python",
-        "Gemini",
-        "n8n",
-        "SerpAPI",
-        "Google Cloud",
-        "LangGraph",
-        "crewai"
-    ],
+→ **Agentic AI Architecture** — Multi-agent orchestration, autonomous reasoning loops, tool calling, CrewAI, LangGraph and intelligent workflow execution.
 
-    "leadership": {
-        "google_community": "300+ developers",
-        "role": "Google Student Ambassador",
-        "club": "President, AURA Club"
-    },
+→ **LLM Systems & Context Engineering** — Context architecture, prompt engineering, MCP integrations, tool-use patterns and connecting language models to external intelligence.
 
-    "philosophy": "Build > Talk",
+→ **Machine Learning Engineering** — Data pipelines, preprocessing, model experimentation, predictive systems and practical machine learning applications.
 
-    "status": "Compiling. Do not disturb."
-}
-```
+→ **Autonomous Systems Engineering** — Event-driven architectures, workflow orchestration, API integrations and intelligent pipelines designed to execute independently.
 
-I'm interested in building intelligent systems that move beyond simple prompts — systems that reason, orchestrate tools, connect information and execute workflows autonomously.
+→ **Multilingual & Human-Centered AI** — Voice-first interfaces, conversational intelligence and accessible AI systems that solve problems beyond the screen.
 
-I enjoy working at the intersection of **AI Engineering, Agentic Workflows, Automation and Human-Centered AI.**
+→ **AI Infrastructure & Automation** — Gemini, n8n, SerpAPI, Google Cloud and the engineering ecosystem behind connected AI applications.
+
+**The philosophy:**
+
+A model that generates an impressive response is interesting.
+
+A system that reasons, uses tools, handles uncertainty, recovers from failure and consistently delivers outcomes is engineering.
+
+I care about the architecture behind intelligence, the orchestration behind autonomy and the infrastructure that makes AI useful at scale.
+
+**The work in progress:**
+
+Building MITRA — a voice-first multilingual AI initiative focused on making government welfare information more accessible.
+
+Engineering autonomous intelligence pipelines that collect, synthesize and distribute information.
+
+Developing MCP integrations that connect language models with external tools and real-world data.
+
+Exploring hybrid-intelligence systems that combine search infrastructure with LLM reasoning.
+
+**Beyond engineering:**
+
+**Google Student Ambassador** — Leading a 300+ member developer community, organizing technical events and delivering workshops.
+
+**President, AURA Club** — Building a collaborative technical community around Computer Science, AI and Machine Learning.
+
+**AI/ML Internship Experience** — Cognifyz Technologies, ExcelR, 3Skill and Alfido Tech.
+
+**McKinsey.org Forward Alumni** — Developing strategic thinking, problem-solving and professional capabilities alongside technical engineering.
+
+**The perspective:**
+
+I explore broadly, investigate deeply and build deliberately.
+
+I don't measure engineering by the number of tools in a stack, but by the problems a system can solve and the reliability with which it solves them.
+
+**The long-term direction:**
+
+To engineer intelligent systems that are autonomous, scalable, reliable and responsible.
+
+To understand intelligence beyond the interface, architecture beyond the abstraction and engineering beyond the prototype.
+
+Google. Amazon. Apple. Meta. The ambition is to work on problems where the next generation of intelligent systems is being built.
+
+Not just experimenting with AI.
+
+**Engineering what comes next.**
 
 ---
 
@@ -83,7 +105,7 @@ I enjoy working at the intersection of **AI Engineering, Agentic Workflows, Auto
 <sub>Developer Community Lead</sub>
 </td>
 <td valign="top">
-Lead a 300-member developer community. Organized 3 technical events, delivered 7 workshops and mentored fellow developers.
+Lead a 300+ member developer community. Organized 3 technical events, delivered 7 workshops and mentored fellow developers.
 </td>
 </tr>
 
@@ -210,7 +232,7 @@ An AI/ML-focused project exploring practical applications of intelligent systems
 
 ---
 
-## 🧰 TECH STACK
+## 🧰 TECHNICAL STACK
 
 <p align="center">
   <b>LANGUAGES & DEVELOPMENT</b>
@@ -236,7 +258,7 @@ An AI/ML-focused project exploring practical applications of intelligent systems
 
 ---
 
-## 🏅 CERTIFICATIONS & LEARNING
+## 🏅 CERTIFICATIONS & CONTINUOUS LEARNING
 
 - Google Cloud Skills Boost
 - AWS Training & Certification — Generative AI and ML Fundamentals
@@ -272,15 +294,15 @@ An AI/ML-focused project exploring practical applications of intelligent systems
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepitha-babitha-sri-bitra">
-    <img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-A21517?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:srideepitha@gmail.com">
-    <img src="https://img.shields.io/badge/SAY%20HELLO-EMAIL-A21517?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/SAY%20HELLO-EMAIL-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Build loud. Ship fast. Let the work speak."</i>
+  <i>"Build loud. Ship fast. Engineer what comes next."</i>
 </p>
 
 <p align="center">
