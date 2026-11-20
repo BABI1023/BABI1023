@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">BABI</h1>
+<h1 align="center">BABITHA</h1>
 
 <p align="center">
   <b>AI Systems Engineer · Agentic AI · Autonomous Intelligence</b>
